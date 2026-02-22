@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/wangxiao/wangxiao:latest
+          tags: ghcr.io/wangxiao/wangxiao1:latest
